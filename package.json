@@ -1,0 +1,23 @@
+{
+  "name": "bookshelf-back-end-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "cors": "^2.8.5",
+    "nanoid": "^3.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "globals": "^15.12.0",
+    "nodemon": "^3.1.7"
+  }
+}
