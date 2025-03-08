@@ -19,7 +19,7 @@ Proyek **Book Self** adalah hasil dari final test dalam program belajar backend 
 ## 📌 Instalasi & Menjalankan Server
 1. **Kloning Repository**
    ```sh
-   git clone <URL_REPOSITORY>
+   git clone https://github.com/Aripinnnnn/Bookshelf-Back-End-App
    cd book-self-backend
    ```
 
@@ -49,8 +49,8 @@ book-self-backend/
 │   │── routes.js       # Definisi rute API
 │   │── handler.js      # Handler fungsi API
 │   │── books.js        # Data penyimpanan buku
+│   |── server.js       # Entry point server
 │── package.json       # Konfigurasi npm
-│── server.js          # Entry point server
 ```
 
 ## 📌 Lisensi
